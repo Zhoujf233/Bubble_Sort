@@ -80,7 +80,7 @@ void bobble_sort(int* arr,int size)
 
 int main(int argc, const char * argv[])
 {
-    int arr[] = {22,34,3,32,82,55,89,50,37,5,64,35,9,70};
+    int arr[] = {89,22,3,32,82,55,22,50,37,5,64,35,9,70};
     int size = (int) sizeof(arr)/sizeof(*arr);
     int i;
     cout<<"初始顺序为: ";
